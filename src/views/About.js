@@ -1,0 +1,1 @@
+export const About = () => <h1>Página informativa</h1>
